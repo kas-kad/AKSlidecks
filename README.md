@@ -3,6 +3,8 @@ AKSlidecks
 
 AKSLidecks class implements a view controller that manages the "flat" navigation of hierarchical content.
 
+It has a very simple interface similar to UINavigationController and supports swipe gestures to navigate back to the root of navigation stack.
+
 ###Presenting master-detail view controllers:
 ![iOS AKSlidecks viewController](http://cdn.makeagif.com/media/5-06-2014/dSyk4T.gif)
 
