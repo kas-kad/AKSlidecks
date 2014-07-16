@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77518F6C-8D51-4F3F-B7D0-DBF390E2C132</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PURSlidecks</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>29279FFA-C542-4E66-ADBA-B7DB3F3F014E</key>
+		<string>ssh://github.com/purrrminator/AKSlidecks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PURSlidecks.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>29279FFA-C542-4E66-ADBA-B7DB3F3F014E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/purrrminator/AKSlidecks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>29279FFA-C542-4E66-ADBA-B7DB3F3F014E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>29279FFA-C542-4E66-ADBA-B7DB3F3F014E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PURSlidecks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
