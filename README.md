@@ -4,6 +4,13 @@ AKSlidecks
 AKSlidecks class implements a view controller that manages the "flat" navigation of hierarchical content.
 It has a very simple interface similar to UINavigationController and supports swipe gestures to navigate back to the root of navigation stack.
 
+###Installing using CocoaPods
+Add the following to your Podfile.
+```ruby
+pod 'AKSlidecks', '~> 1.0'
+```
+
+
 ###Demo
 [YouTube HD demo](http://www.youtube.com/watch?v=s4v5IX-C0HI)
 
